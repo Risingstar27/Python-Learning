@@ -1,0 +1,20 @@
+x=1
+y=2
+print x+Y
+z=x+y
+print z
+
+
+x= "Python"
+y= "learning"
+print x+y
+
+print x-y
+# flotings
+x=27
+y=15.2
+print x+y
+
+z=x+y
+
+
